@@ -1,7 +1,6 @@
 #!/bin/python3
 #kapeed_practice_python_ethical_hacking
 
-from logging import exception
 import sys
 import socket
 from datetime import datetime 
